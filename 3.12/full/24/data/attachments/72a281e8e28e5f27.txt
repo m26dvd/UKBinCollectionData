@@ -1,0 +1,32 @@
+Running test for council: ManchesterCityCouncil
+{'uprn': '77127089', 'nextCollectionFromDate': '2025-01-28', 'nextCollectionToDate': '2025-02-28', 'ahtm_dates_black_bin': '07/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t21/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t', 'ahtm_dates_brown_commingled_bin': '07/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t21/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t', 'ahtm_dates_blue_pulpable_bin': '31/01/2025 00:00:00\n    \t\t\t\t\t;\n    \t\t\t\t14/02/2025 00:00:00\n    \t\t\t\t\t;\n    \t\t\t\t28/02/2025 00:00:00\n    \t\t\t\t\t;\n    \t\t\t\t', 'ahtm_dates_green_organic_bin': '07/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t07/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t21/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t21/02/2025 00:00:00\n\t\t\t\t\t\t;\n\t\t\t\t\t', 'txt_domestic_col_schedule_code': 'FriFort1', 'txt_number_col_services': '4', 'txt_commingled_col_schedule_code': 'FriFort1', 'txt_pulpable_col_schedule_code': 'FriFort2', 'txt_col_service_type': 'individual', 'txt_col_service_calendar_url': '/calendars/FriFort1_MCC_bin_dates_calendar_9.pdf'}
+ahtm_dates_black_bin
+07/02/2025 00:00:00
+						;
+					21/02/2025 00:00:00
+						;
+					
+ahtm_dates_brown_commingled_bin
+07/02/2025 00:00:00
+						;
+					21/02/2025 00:00:00
+						;
+					
+ahtm_dates_blue_pulpable_bin
+31/01/2025 00:00:00
+    					;
+    				14/02/2025 00:00:00
+    					;
+    				28/02/2025 00:00:00
+    					;
+    				
+ahtm_dates_green_organic_bin
+07/02/2025 00:00:00
+						;
+					07/02/2025 00:00:00
+						;
+					21/02/2025 00:00:00
+						;
+					21/02/2025 00:00:00
+						;
+					

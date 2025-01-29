@@ -1,0 +1,24 @@
+Running test for council: HaltonBoroughCouncil
+An error occurred: Message: 
+Stacktrace:
+#0 0x5612e6a8adca <unknown>
+#1 0x5612e65813f0 <unknown>
+#2 0x5612e65d110c <unknown>
+#3 0x5612e65d1331 <unknown>
+#4 0x5612e6617154 <unknown>
+#5 0x5612e65f5abd <unknown>
+#6 0x5612e66144b3 <unknown>
+#7 0x5612e65f5833 <unknown>
+#8 0x5612e65c25a0 <unknown>
+#9 0x5612e65c3ece <unknown>
+#10 0x5612e6a54bdb <unknown>
+#11 0x5612e6a58b67 <unknown>
+#12 0x5612e6a403bc <unknown>
+#13 0x5612e6a59727 <unknown>
+#14 0x5612e6a2474f <unknown>
+#15 0x5612e6a79938 <unknown>
+#16 0x5612e6a79b00 <unknown>
+#17 0x5612e6a89c46 <unknown>
+#18 0x7fda038ffa94 <unknown>
+#19 0x7fda0398ca34 __clone
+
