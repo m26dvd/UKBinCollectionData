@@ -2233,16 +2233,13 @@ Note: Pass the house number and postcode in their respective parameters.
 
 ### Leeds
 ```commandline
-python collect_data.py LeedsCityCouncil https://www.leeds.gov.uk/residents/bins-and-recycling/check-your-bin-day -s -u XXXXXXXX -p "XXXX XXX" -n XX -w http://HOST:PORT/
+python collect_data.py LeedsCityCouncil https://www.leeds.gov.uk/residents/bins-and-recycling/check-your-bin-day -s -u XXXXXXXX
 ```
 Additional parameters:
 - `-s` - skip get URL
 - `-u` - UPRN
-- `-p` - postcode
-- `-n` - house number
-- `-w` - remote Selenium web driver URL (required for Home Assistant)
 
-Note: Pass the house number, postcode, and UPRN. This parser requires a Selenium webdriver.
+Note: Pass the UPRN.
 
 ---
 
